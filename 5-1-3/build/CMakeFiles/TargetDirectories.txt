@@ -1,0 +1,3 @@
+/home/s1u/2022_ite1015_2022090537/5-1-3/build/CMakeFiles/rebuild_cache.dir
+/home/s1u/2022_ite1015_2022090537/5-1-3/build/CMakeFiles/edit_cache.dir
+/home/s1u/2022_ite1015_2022090537/5-1-3/build/CMakeFiles/dynamic_min_max.dir
