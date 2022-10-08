@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/s1u/2022_ite1015_2022090537/6-1-1/main.cc
+iostream
+-
+shapes.h
+/home/s1u/2022_ite1015_2022090537/6-1-1/shapes.h
+
+/home/s1u/2022_ite1015_2022090537/6-1-1/shapes.h
+iostream
+-
+
