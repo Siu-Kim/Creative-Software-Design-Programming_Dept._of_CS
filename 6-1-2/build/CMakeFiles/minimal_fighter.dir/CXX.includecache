@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/s1u/2022_ite1015_2022090537/6-1-2/main.cc
+iostream
+-
+string
+-
+sstream
+-
+minimal_fighter.h
+/home/s1u/2022_ite1015_2022090537/6-1-2/minimal_fighter.h
+
+/home/s1u/2022_ite1015_2022090537/6-1-2/minimal_fighter.cc
+string
+-
+minimal_fighter.h
+/home/s1u/2022_ite1015_2022090537/6-1-2/minimal_fighter.h
+
+/home/s1u/2022_ite1015_2022090537/6-1-2/minimal_fighter.h
+iostream
+-
+
