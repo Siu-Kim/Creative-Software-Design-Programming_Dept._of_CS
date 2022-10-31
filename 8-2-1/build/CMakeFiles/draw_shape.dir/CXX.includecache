@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/s1u/2022_ite1015_2022090537/8-2-1/main.cpp
+
+/home/s1u/2022_ite1015_2022090537/8-2-1/shapes.cpp
+
