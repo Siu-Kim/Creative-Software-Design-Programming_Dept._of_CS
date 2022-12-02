@@ -1,0 +1,3 @@
+/home/s1u/2022_ite1015_2022090537/13-1-2/build/CMakeFiles/rebuild_cache.dir
+/home/s1u/2022_ite1015_2022090537/13-1-2/build/CMakeFiles/edit_cache.dir
+/home/s1u/2022_ite1015_2022090537/13-1-2/build/CMakeFiles/exception2.dir
